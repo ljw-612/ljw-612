@@ -8,7 +8,10 @@
 ## 🔧Skills and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,java,flutter,dart,mysql,pytorch,tensorflow,git,github,latex&theme=light)](https://skillicons.dev)
 
+## 📖 Publication:
 
+- J. Li, Y. Lin and M. Mısır, "Neural Network Based Heuristic Selection for Selection Hyper-Heuristics," _2023 IEEE Congress on Evolutionary Computation (CEC)_, Chicago, IL, USA, 2023, pp. 1-7, doi: 10.1109/CEC53210.2023.10254068.
+- 
 ## 🌍 How to reach me:
 
 <a href="https://github.com/ljw-612" target="_blank">
@@ -21,9 +24,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-## 📖 Publication:
 
-- J. Li, Y. Lin and M. Mısır, "Neural Network Based Heuristic Selection for Selection Hyper-Heuristics," _2023 IEEE Congress on Evolutionary Computation (CEC)_, Chicago, IL, USA, 2023, pp. 1-7, doi: 10.1109/CEC53210.2023.10254068.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljw-612&show_icons=true&theme=radical)-->
 
