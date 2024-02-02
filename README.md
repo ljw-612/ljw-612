@@ -14,6 +14,15 @@ I am currently pursuing my M.Eng. in Artificial Intelligence at Duke University.
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
 <!--
 **ljw-612/ljw-612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
