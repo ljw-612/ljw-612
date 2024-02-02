@@ -1,9 +1,9 @@
 ### Hi there, I am Jingwei Li 👋
 
-I am currently pursuing my M.Eng. in Artificial Intelligence at Duke University. I obtained my joint Bachelor of Science in Data Science degree at Duke Kunshan University and Duke University in May 2023.  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljw-612&layout=compact)](https://github.com/ljw-612/github-readme-stats)
-
+- 🔭 I am currently pursuing my M.Eng. in Artificial Intelligence at Duke University. I obtained my joint Bachelor of Science in Data Science degree at Duke Kunshan University and Duke University in May 2023.
+- 🌱 I am Currently learning generative AI - Large Language Models.
+- 📫 I've worked on impactful projects at General Electric and now working with Cadence Cash.
+- 📍 Shanghai/Durham
 - 📫 How to reach me: ...
 <a href="https://github.com/ljw-612" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,6 +15,7 @@ I am currently pursuing my M.Eng. in Artificial Intelligence at Duke University.
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljw-612&layout=compact)](https://github.com/ljw-612/github-readme-stats)
 
 <!--
 **ljw-612/ljw-612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
