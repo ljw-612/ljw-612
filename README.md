@@ -21,6 +21,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+## 📖 Publication:
+
+- J. Li, Y. Lin and M. Mısır, "Neural Network Based Heuristic Selection for Selection Hyper-Heuristics," 2023 IEEE Congress on Evolutionary Computation (CEC), Chicago, IL, USA, 2023, pp. 1-7, doi: 10.1109/CEC53210.2023.10254068.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljw-612&layout=compact)](https://github.com/ljw-612/github-readme-stats)
 
 <!--
