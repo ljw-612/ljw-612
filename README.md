@@ -18,7 +18,7 @@ I am currently pursuing my M.Eng. in Artificial Intelligence at Duke University.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ljw-612&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
