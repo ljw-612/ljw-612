@@ -11,7 +11,8 @@
 ## 📖 Publication:
 
 - J. Li, Y. Lin and M. Mısır, "Neural Network Based Heuristic Selection for Selection Hyper-Heuristics," _2023 IEEE Congress on Evolutionary Computation (CEC)_, Chicago, IL, USA, 2023, pp. 1-7, doi: 10.1109/CEC53210.2023.10254068.
-- 
+- J. Li, R. Wu, T. -L. Huang, Z. Pan and M. -C. Huang, "Shoupa: An AI System for Early Diagnosis of Parkinson’s Disease," _2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)_, Arlington, VA, USA, 2022, pp. 178-179.
+
 ## 🌍 How to reach me:
 
 <a href="https://github.com/ljw-612" target="_blank">
