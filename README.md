@@ -4,7 +4,10 @@
 - 🌱 I am Currently learning generative AI - Large Language Models.
 - 📫 I've worked on impactful projects at General Electric and now working with Cadence Cash.
 - 📍 Shanghai/Durham
-- 🌍 How to reach me: <a href="https://github.com/ljw-612" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+- 🌍 How to reach me:
+<a href="https://github.com/ljw-612" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://linkedin.com/in/jw-li" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
