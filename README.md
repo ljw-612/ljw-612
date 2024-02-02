@@ -25,7 +25,7 @@
 
 - J. Li, Y. Lin and M. Mısır, "Neural Network Based Heuristic Selection for Selection Hyper-Heuristics," _2023 IEEE Congress on Evolutionary Computation (CEC)_, Chicago, IL, USA, 2023, pp. 1-7, doi: 10.1109/CEC53210.2023.10254068.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljw-612&layout=compact)](https://github.com/ljw-612/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljw-612&show_icons=true&theme=radical)
 
 <!--
 **ljw-612/ljw-612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
