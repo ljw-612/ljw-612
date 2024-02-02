@@ -5,7 +5,7 @@
 - 📫 I've worked on impactful projects at General Electric and now working with Cadence Cash.
 - 📍 Shanghai/Durham
 
-## Tools:
+## 🔧Skills and Tools:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -23,7 +23,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-- 🌍 How to reach me:
+## 🌍 How to reach me:
 <a href="https://github.com/ljw-612" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
