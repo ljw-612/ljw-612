@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Jingwei Li 👋
+
+🔭 As a driven data science student pursuing a Master's in Artificial Intelligence at Duke, I have experience utilizing Python, SQL, and data visualization tools to derive insights. I am eager to further refine my interdisciplinary data analytics and AI skills. I am passionate about developing innovative solutions to address pressing real-world problems by combining AI techniques. Previously, I interned at GE, where I provided data analysis and visualization support to various business lines. I am a quick learner and adept at mastering new technologies. Additionally, I excel at time management and take strong responsibility for my work.
 
 <!--
 **ljw-612/ljw-612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
