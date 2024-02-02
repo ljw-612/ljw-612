@@ -6,15 +6,7 @@
 - 📍 Shanghai/Durham
 
 ## 🔧Skills and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,java,flutter,dart,MySQL,pytorch,tensorflow&theme=light)](https://skillicons.dev)
-
-
-
-
-
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,flutter,dart,mysql,pytorch,tensorflow,gitmgithub,latex&theme=light)](https://skillicons.dev)
 
 
 ## 🌍 How to reach me:
