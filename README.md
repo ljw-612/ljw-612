@@ -6,7 +6,7 @@
 - 📍 Shanghai/Durham
 
 ## 🔧Skills and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,java,flutter,dart,MySQL,PyTorch,scikit-learn,NumPy,pandas,keras)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,flutter,dart,MySQL,pytorch,tensorflow&theme=light)](https://skillicons.dev)
 
 
 
