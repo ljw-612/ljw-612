@@ -2,7 +2,7 @@
 
 - 🔭 I am currently pursuing my M.Eng. in Artificial Intelligence at Duke University. I obtained my joint Bachelor of Science in Data Science degree at Duke Kunshan University and Duke University in May 2023.
 - 🌱 I am Currently learning generative AI - Large Language Models.
-- 📫 I've worked on impactful projects at General Electric and now working with Cadence Cash.
+- 📫 I've worked on impactful projects at General Electric, NIO and Cadence Cash, now I am working with Bilibili.
 - 📍 Shanghai/Durham
 
 ## 🔧Skills and Tools:
